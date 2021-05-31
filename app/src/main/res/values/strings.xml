@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="food_name">Hamburger</string>
+    <string name="_3_0">3.5</string>
+    <string name="cardPadding">5dp</string>
+    <string name="_1_hour">1 HOUR</string>
+    <string name="placeHolder">|</string>
+    <string name="difficulty">Easy</string>
+    <string name="foodImage">Hamburger</string>
+
+    <string-array name="foodImages">
+        <item>download1</item>
+        <item>download2</item>
+        <item>download3</item>
+        <item>download4</item>
+        <item>download5</item>
+    </string-array>
+
+</resources>
