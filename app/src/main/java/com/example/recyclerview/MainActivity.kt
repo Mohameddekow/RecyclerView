@@ -18,8 +18,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         
         binding.apply {
-            mainRecyclerView.layoutManager = LinearLayoutManager(this@MainActivity)
-            mainRecyclerView.adapter = FoodAdapter(this@MainActivity,FoodObject.myFood)
+            foodRecyclerView.layoutManager = LinearLayoutManager(this@MainActivity)
+            foodRecyclerView.adapter = FoodAdapter(this@MainActivity,FoodObject.myFood)
         }
 
     }
