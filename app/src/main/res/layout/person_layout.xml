@@ -47,6 +47,8 @@
                        android:layout_height="wrap_content"
                        android:adjustViewBounds="true"
                        android:scaleType="fitCenter"
+                       app:strokeWidth="1dp"
+                       app:strokeColor="@color/purple_700"
                        android:contentDescription="@string/foodImage"
                        android:src="@drawable/download5"
                        app:shapeAppearanceOverlay="@style/rectangular"
@@ -57,8 +59,8 @@
               <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_marginTop="07dp"
-                    android:layout_marginBottom="07dp"
+                    android:layout_marginTop="05dp"
+                    android:layout_marginBottom="05dp"
                     android:orientation="vertical">
 
 
@@ -172,11 +174,6 @@
                 </LinearLayout>
 
             </androidx.constraintlayout.widget.ConstraintLayout>
-
-<!--                android:maxWidth="110dp"
-                       android:minWidth="130dp"
-                       android:minHeight="100dp"
-                       android:maxHeight="130dp"-->
 
             </LinearLayout>
 
