@@ -49,7 +49,6 @@
                        android:scaleType="fitCenter"
                        app:strokeWidth="1dp"
                        app:strokeColor="@color/purple_700"
-                       android:contentDescription="@string/foodImage"
                        android:src="@drawable/download5"
                        app:shapeAppearanceOverlay="@style/rectangular"
 

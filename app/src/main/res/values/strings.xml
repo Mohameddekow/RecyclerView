@@ -6,14 +6,11 @@
     <string name="_1_hour">1 HOUR</string>
     <string name="placeHolder">|</string>
     <string name="difficulty">Easy</string>
-    <string name="foodImage">Hamburger</string>
+    <string name="name">Name:</string>
+    <string name="time">Time:</string>
+    <string name="learn_how_cook">Learn how to cook:</string>
+    <string name="btnReadMore">Read more…</string>
+    <string name="rating">Ratings:</string>
 
-    <string-array name="foodImages">
-        <item>download1</item>
-        <item>download2</item>
-        <item>download3</item>
-        <item>download4</item>
-        <item>download5</item>
-    </string-array>
 
 </resources>

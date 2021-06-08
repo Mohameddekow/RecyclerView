@@ -10,4 +10,5 @@
     <color name="black">#FF000000</color>
     <color name="lightBlack">#F0151414</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="btnColor">#8F8D8D</color>
 </resources>
